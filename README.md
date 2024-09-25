@@ -5,6 +5,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bogdicatana&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+<h2>About me 🎆</h2>
 <p>I am a 20 year old developer with keen interests in Linux, UI/UX and firmware/interfacing with hardware.</p>
 <p>My current interests lie in learning how develop applications for Android and have recently started learning Kotlin.</p>
 
