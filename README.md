@@ -10,7 +10,7 @@
 <p>My current interests lie in learning how develop applications for Android and have recently started learning Kotlin.</p>
 
 <h2 align="left">Languages and skills</h2>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,css,sqlite,git,linux">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,css,javascript,html,sqlite,git,linux,arch,figma,vim">
 
 <h2 align="left">Links 🔗</h2>
 <a href="mailto:bcatana394@gmail.com">
