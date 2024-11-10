@@ -2,7 +2,7 @@
 <h2 align="center">Computer Science student @ University of Illinois at Chicago and enjoyer of linux, robotics and great looking UI</h2>
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bogdicatana&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bogdicatana&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 <h2>About me 🎆</h2>
