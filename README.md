@@ -6,7 +6,7 @@
 </div>
 
 <h2>About me 🎆</h2>
-<p>I am a 21 year old developer with keen interests in Linux, UI/UX, full stack development and firmware/interfacing with hardware.</p>
+<p>I am a developer with keen interests in Linux, UI/UX, full stack development and firmware/interfacing with hardware.</p>
 <p>My current interests lie in learning how develop applications for Android and have recently started learning Kotlin.</p>
 
 <h2 align="left">Languages and skills</h2>
